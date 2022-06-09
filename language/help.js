@@ -6,80 +6,80 @@
 
   // Message Wrong Url
   exports.notNum = (q) => {
-  return `"${q}", Bukan Angka!
+  return `"${q}", _𝗜𝘁𝘂 𝗕𝘂𝗸𝗮𝗻 𝗔𝗻𝗴𝗸𝗮 𝗕𝗮𝘄𝗮𝗻𝗴!_
   `
   }
 
   // Message Fitur Off
   exports.fiturOff = () => {
-  return `⚠️ Fitur Tidak Di Aktifkan
+  return `⚠️ _𝗙𝗶𝘁𝘂𝗿𝗻𝘆𝗮 𝗧𝗶𝗱𝗮𝗸 𝗔𝗸𝘁𝗶𝗳_
   `
   }
 
   // Message Saat Fitur Error
   exports.fiturError = () => {
-  return `⚠️ Fitur Sedang Error
+  return `⚠️ _𝗚𝗮𝗸𝘁𝗮𝘂 𝗔𝗵𝗵 𝗖𝗮𝗽𝗲 𝗘𝗿𝗼𝗿 𝗺𝘂𝗹𝘂_
   `
   }
 
   // Message When Not the Destined Link
   exports.notLink = () => {
-  return `⚠️ Itu Bukan Linknya Bambank
+  return `⚠️ _𝗜𝘁𝘂 𝗕𝘂𝗸𝗮𝗻 𝗟𝗶𝗻𝗸 𝗕𝗮𝗺𝗯𝗮𝗻𝗴_
   `
   }
 
   // Message Successfully Adding User To Group
   exports.addUser =() => {
-  return `Sukses Menambahkan User Ke Grup ☑️
+  return `_𝗦𝘂𝗸𝘀𝗲𝘀 𝗠𝗲𝗻𝗮𝗯𝗮𝗵𝗸𝗮𝗻 𝗕𝗮𝗯𝗮𝗻 𝗞𝗲 𝗴𝗿𝘂𝗽_ ☑️
   `
   }
 
   // Message Success Kick User From Group
   exports.kickUser =() => {
-  return `Sukses Kick User Dari Grup ☑️
+  return `_𝗦𝘂𝗸𝘀𝗲𝘀 𝗠𝗲𝗻𝗴𝗲𝗹𝘂𝗮𝗿𝗸𝗮𝗻 𝗕𝗲𝗯𝗮𝗻 𝗗𝗮𝗿𝗶 𝗚𝗿𝘂𝗽_ ☑️
   `
   }
 
   // Message Promote User
   exports.proMote =() => {
-  return `Sukses Menaikkan Jabatan User ☑️
+  retun `_𝗖𝗶𝗲𝗲𝗲 𝗔𝗱𝗺𝗶𝗻 𝗕𝗮𝗿𝘂_ (≧▽≦)  ☑️
   `
   }
 
   // Message Demote User
   exports.deMote =() => {
-  return `Sukses Menurunkan Jabatan User ☑️
+  return `_𝗦𝘂𝗸𝘀𝗲𝘀 𝗠𝗲𝗻𝘂𝗿𝘂𝗻𝗸𝗮𝗻 𝗝𝗮𝗯𝗮𝘁𝗮𝗻_ ☑️
   `
   }
 
   // Message Rename Group
   exports.namaGrup =(text) => {
-  return `Sukses Mengubah Nama Group Menjadi ${text} ☑️
+  return `_𝗦𝘂𝗸𝘀𝗲𝘀 𝗠𝗲𝗻𝗴𝘂𝗯𝗮𝗵 𝗡𝗮𝗺𝗮 𝗴𝗿𝘂𝗽 𝗺𝗲𝗻𝗷𝗮𝗱𝗶_ : ${text} ☑️
   `
   }
 
 // Message Ephermal On
   exports.epOn =() => {
-  return `Sukses Menghidupkan Ephermal/Pesan Sementara Di Group Ini ☑️
+  return `_𝗦𝘂𝗸𝘀𝗲𝘀 𝗠𝗲𝗻𝗴𝗵𝗶𝗱𝘂𝗽𝗸𝗮𝗻 𝗽𝗲𝘀𝗮𝗻 𝘀𝗲𝗺𝗲𝗻𝘁𝗮𝗿𝗮 𝗱𝗶 𝗴𝗿𝘂𝗽 𝗶𝗻𝗶_ ☑️
   `
   }
 
   // Message Ephermal Off
   exports.epOff =() => {
-  return `Sukses Menonaktifkan Ephermal/Pesan Sementara Di Group Ini ☑️
+  return `_𝗦𝘂𝗸𝘀𝗲𝘀 𝗠𝗲𝗻𝗼𝗻𝗮𝗸𝘁𝗶𝗳𝗸𝗮𝗻 𝗽𝗲𝘀𝗮𝗻 𝘀𝗲𝗺𝗲𝗻𝘁𝗮𝗿𝗮 𝗱𝗶 𝗴𝗿𝘂𝗽 𝗶𝗻𝗶 ☑️
   `
   }
 
   // Message No Spam
   exports.janSpam = () => {
-  return `Jan Spam Dong Kak 🐧
+  return `_𝗝𝗮𝗻𝗴𝗮𝗻 𝗦𝗽𝗮𝗺 𝗕𝗮𝘄𝗮𝗻𝗴_ -_
   `
   }
 
   // List
   exports.list = (pushname, ucapanWaktu) => {
   return`${ucapanWaktu}
-Hai ${pushname} silahkan dipilih list menu dibawah ini.
+𝗛𝗮𝗶 ${pushname} 𝗦𝗶𝗹𝗮𝗵𝗸𝗮𝗻 𝗱𝗶 𝗽𝗶𝗹𝗶𝗵 𝗹𝗶𝘀𝘁𝗺𝗲𝗻𝘂 𝗱𝗶 𝗯𝗮𝘄𝗮𝗵 𝗶𝗻𝗶.
   `
   }
 
@@ -560,6 +560,7 @@ Hai ${pushname} silahkan dipilih list menu dibawah ini.
   ✎ Ryuka Team
   ✎ Deff
   ✎ Yoga
+  ✎ Nelson
   ✎ Riy
   `
   }
@@ -602,50 +603,56 @@ Tetap Patuhi Rules Agar Tetap Bisa Menikmati Bot 😁
 
 // Donasi
   exports.donasi = () => {
-	return`*TERIMA KASIH SUDAH MAU DONASI 🤗*
+	return`—————「 *DONATE* 」—————
 
-*Q.S Az-Zalzalah Ayat 7 :*
+Hai kak ☺️ 
+Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
+Berapapun donasi kalian akan sangat berarti 👍
 
-فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ
-
-Artinya : Maka barangsiapa 
-mengerjakan kebaikan seberat
-zarrah, niscaya dia akan melihat 
-(balasan)nya
+Thanks!
   `
   } 
 
   // Sewa
   exports.sewa = () => {
   return`
-*SEWA BOT 💫*
+  —「 *SEWA | JADI BOT | RUN BOT* 」—
 
-📆 1 Minggu : Rp. 10.000,00
-📆 1 Bulan : Rp. 20.000,00
-📆 1 Tahun : Rp. 100.000,00
-📆 Permanen : Buat Bot Sendiri!!!
+  *_SEWA BOT_* 
+  *≻* Sewa Bot free/1grup (1 hari)
+  *≻* Sewa Bot 15k/1grup (1 minggu)
+  *≻* Sewa Bot 20k/1grup (1 bulan)
+  *≻* Sewa Bot 30k/3grup (Permanen)
 
-*🏦 PAYMENT :*
-- Gopay
-- Dana
+  *JADI BOT*  
+  *≻* Jadi Bot 15k TidakOwner (1 minggu)
+  *≻* Jadi Bot + Owner 20k (1 bulan)
+  *≻* Jadi Bot + Owner 35k (1 Tahun)
+
+  *JASA RUN BOT*
+  *≻* Run Bot 15k (1 minggu)
+  *≻* Run Bot 20k (1 bulan)
+  *≻* Run Bot 20k (1 Tahun)
+
+   *_PEMBAYARAN_* 
+   - _Gopay_
+   - _Dana_
+   - _Pulsa +5k_
+ 
+  *Minat? Langsung chat aja ya cuy 🐦*
+   https://wa.me/message/LQNEJVLYV5HZI1
   `
   }
 
   // Welcome
   exports.welcome = () => {
-  return `Intro Dulu Yuk Biar Keren 🤙
-
-📛 Nama : 
-🔞 Umur :
-🏙️ Askot :
-
-Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Rules Yang Ada
+  return `✦━━━━━━[ *WELCOME* ]━━━━━━✦\n\n┏––––––━━━━━━━━•\n│⫹⫺ 𝗚𝗮𝗸 𝗧𝗮𝘂 𝗴𝗿𝘂𝗽 𝗮𝗽𝗮𝗮𝗻\n┣━━━━━━━━┅┅┅\n│( 👋 𝗛𝗮𝗹𝗼 𝗞𝗮𝗸 )\n├[ *INTRO* ]—\n│ *𝐍𝐚𝐦𝐚:* \n│ *𝐔𝐦𝐮𝐫:* \n│ *𝐆𝐞𝐧𝐝𝐞𝐫:*\n│ *𝐀𝐬𝐤𝐨𝐭:*\n│ *𝐒𝐭𝐚𝐭𝐮𝐬:*\n┗––––––━━┅┅┅\n\n––––┅┅ *DESCRIPTION* ┅┅––––\n\n\n\n\n\n\n\n\n\n\n\n      𝗕𝗮𝗰𝗮 𝗮𝗷𝗮 𝘀𝗲𝗱𝗶𝗿𝗶.   \n\n\n\n\n\n\n\n\n\n\n\n 
   `
   }
 
   // Leave
   exports.goodbye = () => {
-  return `Tetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga 🤙🗿
+  return `✦━━━━━━[ *GOOD BYE* ]━━━━━━✦\nSayonara kak 👋( ╹▽╹ )\n\nTetap Putus Asa Jangan Semangat Dan Jadilah Beban Keluarga 🤙🗿
   `
   } 
 
@@ -1222,6 +1229,7 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   ✎ Ryuka Team
   ✎ Deff
   ✎ Yoga
+  ✎ Nelson
   ✎ Riy
   `
   }
