@@ -19,22 +19,22 @@
   global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
   global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
-  global.limitCount = 70 // 70 Dah Pas Banh
+  global.limitCount = 20 // 70 Dah Pas Banh
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'Riy' // Ganti Jadi Namamu
-  global.owner = ['6281575886399','6281575886399','6285813334446'] // Kalo Mau Lebih Tambahin Aja
-  global.ownernomer = '6281575886399' // Owner Utama Istilahnya
-  global.botname = 'Hinata Hyuga' // Ganti Jadi Nama Botmu
-  global.packname = 'Hinata Hyuga' // Sticker Weem
-  global.author = 'Riy' // Sticker Weem
-  global.webme = 'https://api-riy.herokuapp.com' // Ganti Sama Web Mu
-  global.linkgroup = 'https://chat.whatsapp.com/HZhLynp6E9QKNrRFtUp26T' // Ganti Sama Link Gc Mu
+  global.ownername = '𝐍𝐞𝐥𝐬𝐨𝐧' // Ganti Jadi Namamu
+  global.owner = ['6281241100804','6281241100804','6281241100804'] // Kalo Mau Lebih Tambahin Aja
+  global.ownernomer = '6281241100804' // Owner Utama Istilahnya
+  global.botname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃' // Ganti Jadi Nama Botmu
+  global.packname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃' // Sticker Weem
+  global.author = 'By Nelson' // Sticker Weem
+  global.webme = 'https://vt.tiktok.com/ZSdPqwKTg/' // Ganti Sama Web Mu
+  global.linkgroup = 'https://chat.whatsapp.com/BFFKYGNsvrk9iOLyjrkIib' // Ganti Sama Link Gc Mu
   global.sessionName = 'session'
-  global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw' // Ganti Sama Link Yt Mu
-  global.github = 'https://github.com/riychdwayne' // Ganti Sama Link Github Mu
-  global.instagram = 'https://instagram.com/riychdwayne' // Ganti Sama Link Ig mu
+  global.youtube = 'https://youtube.com/channel/UCurk9oz-JJ7P5Ya-WZmChJg' // Ganti Sama Link Yt Mu
+  global.github = 'https://github.com/NelsonZz' // Ganti Sama Link Github Mu
+  global.instagram = 'https://instagram.com/nelson_randanan' // Ganti Sama Link Ig mu
 
   // Background Setiap Menu
   global.bg1 = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -51,19 +51,19 @@
 
   // Edit Sesuai Kemauan Mu
   global.rpg = {
-  limitEnd: 'Limit Anda Habis\n\n📝 Note : Limit Akan Di Reset Setiap Jam 21:00',
+  limitEnd: '𝗟𝗶𝗺𝗶𝘁 𝗔𝗻𝗱𝗮 𝗛𝗮𝗯𝗶𝘀 \n\n📝 Note : Limit Akan Di Reset Setiap Jam 21:00',
   }
 
   // Edit Sesuai Kemauanmu
   global.mess = {
-  admin: '_Lu Admin? 🤨_',
-  botAdmin: '_Bot Bukan Admin 😔_',
-  owner: '_Lu Bukan Owner Gw 😠_',
-  group: '_Khusus Group 😏_',
-  private: '_Khusus Private Chat_',
-  bot: '_Khusus Pengguna Nomer Bot_',
-  wait: '_Sabar Sedang Di Proses ..._',
-  done: '_Done Ngab 🤗_',
+  admin: '_𝗞𝗮𝗺𝘂 𝗕𝘂𝗸𝗮𝗻 𝗔𝗱𝗺𝗶𝗻 ´･ᴗ･`_',
+  botAdmin: '_𝗕𝗼𝘁 𝗕𝘂𝗸𝗮𝗻 𝗔𝗱𝗺𝗶𝗻 〒.〒 _',
+  owner: '_𝗞𝗮𝗺𝘂 𝗕𝘂𝗸𝗮𝗻 𝗢𝘄𝗻𝗲𝗿 𝗞𝘂 ´･ᴗ･`_',
+  group: '_𝗙𝗶𝘁𝘂𝗿 𝗛𝗮𝗻𝘆𝗮 𝗗𝗶𝗴𝘂𝗻𝗮𝗸𝗮𝗻 𝗨𝗻𝘁𝘂𝗸 𝗚𝗿𝘂𝗽_',
+  private: '_𝗙𝗶𝘁𝘂𝗿 𝗛𝗮𝗻𝘆𝗮 𝗗𝗶𝗴𝘂𝗻𝗮𝗸𝗮𝗻 𝗨𝗻𝘁𝘂𝗸 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗖𝗵𝗮𝘁_',
+  bot: '_𝗙𝗶𝘁𝘂𝗿 𝗞𝗵𝘂𝘀𝘂𝘀 𝗣𝗲𝗻𝗴𝘂𝗻𝗮 𝗡𝗼𝗺𝗼𝗿 𝗕𝗼𝘁_',
+  wait: '```「▰▰▰▱▱▱▱▱▱▱」𝗟𝗼𝗮𝗱𝗶𝗻𝗴...```',
+  done: '_𝗝𝗮𝗻𝗴𝗮𝗻 𝗟𝘂𝗽𝗮 𝗠𝗮𝗸𝘀𝗶𝗵 (≧▽≦)_',
   }
 
   // Kalo Mau Menyesuaikan Nama File Foto Nya
